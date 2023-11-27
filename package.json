@@ -1,0 +1,11 @@
+{
+  "name": "professional-backend-setup",
+  "version": "1.0.0",
+  "description": "Creating a professional backend setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Jaiswal",
+  "license": "ISC"
+}
